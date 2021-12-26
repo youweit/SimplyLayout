@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import UIKit
+@_exported import UIKit
 
 precedencegroup SimplyLayoutPriorityPrecedenceGroup {
     higherThan: ComparisonPrecedence
